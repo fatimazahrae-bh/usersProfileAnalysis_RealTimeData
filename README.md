@@ -33,3 +33,24 @@ Pour utiliser ce projet, assurez-vous que les services Kafka, Cassandra et Mongo
 - MongoDB
 - Python
 
+#  RGPD
+
+## Respect de la protection des données
+
+Ce projet est conforme au Règlement général sur la protection des données (RGPD) et met en œuvre des mesures de sécurité pour garantir la confidentialité et l'intégrité des données personnelles. Voici un résumé des principales considérations RGPD :
+
+### Registre des traitements de données
+
+Nous maintenons un registre détaillé de tous les traitements de données personnelles effectués dans ce projet. Ce registre comprend des informations sur les types de données stockées, les finalités du traitement, les durées de conservation, les bases légales du traitement et les mesures de sécurité mises en place.
+
+### Consentement et transparence
+
+Lorsque cela est nécessaire, nous obtenons un consentement explicite des utilisateurs pour collecter et traiter leurs données personnelles. Nous expliquons clairement les finalités du traitement des données et veillons à ce que les utilisateurs aient un contrôle sur leurs données.
+
+### Sécurité des données
+
+Nous mettons en place des mesures de sécurité robustes pour protéger les données personnelles contre tout accès non autorisé, perte ou divulgation. Cela comprend la gestion des accès, le chiffrement des données sensibles et la surveillance continue.
+
+### Droits des personnes concernées
+
+Nous respectons les droits des personnes concernées en ce qui concerne leurs données personnelles. Les utilisateurs ont le droit de demander l'accès à leurs données, de les rectifier, de les supprimer ou de s'opposer au traitement, conformément au RGPD.
