@@ -10,7 +10,11 @@ Ce projet vise à démontrer comment intégrer les technologies Spark, Kafka, Ca
 - Ingestion de données à partir d'un topic Kafka.
 - Transformation des données JSON à l'aide de Spark.
 - Stockage des données traitées dans Cassandra.
+ <img width="850" alt="Capture d’écran 2023-11-02 144029" src="https://github.com/fatimazahrae-bh/usersProfileAnalysis_RealTimeData/assets/72580954/4d306fe4-6011-4af6-8792-4c89fccc99cf">
+
 - Enregistrement des données dans MongoDB.
+ <img width="580" alt="image" src="https://github.com/fatimazahrae-bh/usersProfileAnalysis_RealTimeData/assets/72580954/286e82b7-c334-4031-b5ec-397efdc02af3">
+
 - Chiffrement de certaines données sensibles.
 
 ## Captures d'écran
@@ -32,6 +36,11 @@ Pour utiliser ce projet, assurez-vous que les services Kafka, Cassandra et Mongo
 - Apache Cassandra
 - MongoDB
 - Python
+
+## Tableau de Bord Dash
+<img width="880" alt="image" src="https://github.com/fatimazahrae-bh/usersProfileAnalysis_RealTimeData/assets/72580954/7ee8d220-b572-44ed-be0f-4b40690c3cd3">
+<img width="889" alt="image" src="https://github.com/fatimazahrae-bh/usersProfileAnalysis_RealTimeData/assets/72580954/17417924-335e-406b-a97c-d5de36d45b01">
+
 
 #  RGPD
 
