@@ -13,7 +13,7 @@ Ce projet vise à démontrer comment intégrer les technologies Spark, Kafka, Ca
  <img width="850" alt="Capture d’écran 2023-11-02 144029" src="https://github.com/fatimazahrae-bh/usersProfileAnalysis_RealTimeData/assets/72580954/4d306fe4-6011-4af6-8792-4c89fccc99cf">
 
 - Enregistrement des données dans MongoDB.
- <img width="580" alt="image" src="https://github.com/fatimazahrae-bh/usersProfileAnalysis_RealTimeData/assets/72580954/286e82b7-c334-4031-b5ec-397efdc02af3">
+ <img width="935" alt="image" src="https://github.com/fatimazahrae-bh/usersProfileAnalysis_RealTimeData/assets/72580954/833071b3-fac8-4024-93aa-a99599fc2926">
 
 - Chiffrement de certaines données sensibles.
 
